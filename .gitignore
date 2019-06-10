@@ -1,0 +1,11 @@
+#Xcode
+*.xcworkspace
+xcuserdata
+
+#CocoaPod
+Pods/*
+Podfile.lock
+
+Build/*
+
+R.generated.swift
